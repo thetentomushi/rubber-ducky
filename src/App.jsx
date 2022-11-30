@@ -24,7 +24,7 @@ export default function App() {
         Talk to Me About Your Problems <br />
         <b>I'll listen</b>
       </p>
-      <img src={imageUrl} alt={name} />
+      <img src={imageUrl} alt={name}/>
       <button onClick={changeRubberDuckAvatar}>Change Rubber Duck</button>
       <div>
         <button onClick={changeTheme}>Change Theme</button>

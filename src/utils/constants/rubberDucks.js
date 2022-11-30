@@ -5,7 +5,9 @@ export const TYPE = {
   frog: "frog",
   penguin: "penguin",
   chameleon: "chameleon",
-  batman: "batman"
+  batman: "batman",
+  pig: "pig",
+  ghost: "ghost"
 };
 
 const rubberDucks = {
@@ -32,6 +34,14 @@ const rubberDucks = {
   batman: {
     name: "Batman Rubber Duck",
     imagePath: "https://cdn-icons-png.flaticon.com/512/805/805385.png"
+  },
+  pig: {
+    name: "Pig Rubber Duck",
+    imagePath: "https://cdn-icons-png.flaticon.com/512/2174/2174069.png"
+  },
+  ghost: {
+    name: "Ghost",
+    imagePath: "https://cdn-icons-png.flaticon.com/512/1235/1235112.png"
   }
 };
 
