@@ -16,6 +16,10 @@ export default function App() {
     document.body.classList.toggle("dark");
   };
 
+  const showHelp = () => {
+    //TODO show help message
+  }
+
   return (
     <div className="App">
       <h1>Rubber Duck Debugging</h1>
@@ -28,7 +32,7 @@ export default function App() {
       <button onClick={changeRubberDuckAvatar}>Change Rubber Duck</button>
       <div>
         <button onClick={changeTheme}>Change Theme</button>
-        <button>Help</button>
+        <button onClick={showHelp}>Help</button>
       </div>
     </div>
   );
