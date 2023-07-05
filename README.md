@@ -1,6 +1,6 @@
 <div align="center">
 
-## Rubber Ducky
+## Rubber Ducky :duck:
 
 </div>
 
