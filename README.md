@@ -4,4 +4,6 @@
 
 </div>
 
-Built with React
+### Raise any issue if you think that can be improved in the program
+
+Built with :atom_symbol: React
